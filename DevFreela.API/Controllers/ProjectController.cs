@@ -43,7 +43,7 @@ namespace DevFreela.API.Controllers
         public IActionResult GetById(int id)
         {
             // for testing
-            throw new Exception();
+            //throw new Exception();
             return Ok();
         }
 
